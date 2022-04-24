@@ -1,3 +1,6 @@
-# javascript-challenges
+### Javascript Challenges
+<br >
+- Repositorio para challenges de javascript, a ideia é fazer um projeto por dia.
+<br ><br >
 
-## Repositorio para challenges de javascript, a ideia é fazer um projeto por dia.
+<li><a href="">1º Projeto - Clock</a></li>
